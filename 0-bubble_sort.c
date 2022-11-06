@@ -2,7 +2,7 @@
 /**
  * bubble_sort - func to sort using bubblesort
  * array - array to sort
- * @size: size of arr
+ * @size -  size of arr
  * Return: nothing
  */
 void bubble_sort(int *array, size_t size)
